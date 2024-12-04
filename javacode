@@ -1,0 +1,13 @@
+public class AwsDevOpsWishes {
+
+    public static void main(String[] args) {
+        // List of students
+        String[] students = {"Padmakar","Madhu","Kiran","satya"};
+
+        // Loop through each student and print a DevOps-specific message
+        for (String student : students) {
+            System.out.println("All the best for AWS DevOps, " + student );
+        }
+    }
+}
+
