@@ -1,0 +1,3 @@
+1. SELECT * FROM employees; (* gives you the complete data of the table).
+
+2. SELECT first_name, last_name FROM employees; (gives you all the data of the first name and last name from the table employees).
